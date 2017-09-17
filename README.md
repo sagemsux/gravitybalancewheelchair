@@ -1,5 +1,4 @@
-# gravitybalancewheelchair
-Gravity Balanced Wheelchair
+# Gravity Balanced Wheelchair
 
 Standing up is extremely strenuous for most wheel-chairs, and using principles of gravity balance, this can be made significantly easier.
 All code was written in MATLAB 2017a, and might not work with previous versions. 
